@@ -12,7 +12,7 @@ import picocli.CommandLine.Parameters;
 import java.io.File;
 import java.io.IOException;
 import java.nio.file.Files;
-
+//valami
 @Command(name = "diversity")
 public class DiversityApp implements Runnable {
 
